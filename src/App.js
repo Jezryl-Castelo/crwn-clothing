@@ -30,7 +30,7 @@ class App extends React.Component {
             }
           });
           
-          console.log(this.state)
+          // console.log(this.state) check state of user
         });
       } 
 
